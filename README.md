@@ -25,6 +25,12 @@ You are fully responsible for your actions. Use responsibly.
 ---
 
 ## 🚀 How to Use
+## 📥 Download the Tool
+
+You can download the latest version of the ANONYMOUS OTP Tool from the link below:
+
+➡️ [Download EXE from MEGA](https://mega.nz/file/3h4HCS7K#X8whuw6xQVj3VIhtEC6vHSGeZ5tTSCXRkBEAUZQqpJs)  
+*File Size: 27 MB | Platform: Windows | Format: `.exe`*
 
 1. **Download** the `.exe` file
 2. **Run** the tool
