@@ -2,7 +2,9 @@
 
 > A GUI-based professional OTP testing tool for educational and security research purposes only.
 
+## 🖼 UI Preview
 
+![UI Preview](1.png)
 
 ---
 
